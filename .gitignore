@@ -1,0 +1,16 @@
+.DS_Store
+.deprecated/
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+__pycache__/
+build/
+dist/
+test/__pycache__/
+gigaloader/__pycache__/
+gigaloader/gigaloader.egg-info/
+gigaloader.egg-info/
+*.pyc
+*.txt
+!requirements.txt
+test.py
