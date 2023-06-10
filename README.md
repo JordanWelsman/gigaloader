@@ -1,2 +1,5 @@
 # gigaloader
-A simple but verbose Python loading bar.
+
+```console
+gigaloader: [============================    ] 87%
+```
